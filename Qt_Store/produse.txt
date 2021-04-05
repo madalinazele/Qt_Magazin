@@ -1,0 +1,10 @@
+        ID                NUME          PRODUCATOR                 TIP      PRET
+         1           ciocolata               milka             caramel        13
+        16          napolitane                alka                 rom         9
+        10           inghetata              napoca             capsuni        16
+        43              snitel             papabun                 pui        46
+         5                 gem              bunica               afine        20
+         2                 oua               gaini           ingrijite         5
+        32               alune             nutline              sarate        14
+         9           prajitura             carpati            tiramisu        34
+       364               salam               sibiu                vara        23
