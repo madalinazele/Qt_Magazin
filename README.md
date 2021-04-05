@@ -1,1 +1,1 @@
-# Qt_Magazin
+# Qt_Store
